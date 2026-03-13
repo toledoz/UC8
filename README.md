@@ -1,2 +1,2 @@
-# UC8 Senac
+# UC8
 Mentor: Professor Hudson
